@@ -1,0 +1,2 @@
+# HexMaze Explorer 
+Embark on a Java-powered journey in the HexMaze Explorer game, where players navigate hexagonal cells using stack-based movement to collect treasures efficiently. This unique maze traversal experience challenges strategic thinking, allowing players to backtrack intelligently when facing obstacles. With a seamless interface and captivating gameplay, HexMaze Explorer combines maze-solving with treasure-hunting for an engaging adventure.
